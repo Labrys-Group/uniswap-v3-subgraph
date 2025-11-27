@@ -1,5 +1,6 @@
 {
   "network": "immutable-zkevm-testnet",
   "factory": "0x918ca6e5Db17511136dfbb86a936e666bCFcfe81",
-  "startblock": "31576029"
+  "startblock": "31576029",
+  "nonfungiblePositionManager": "0x489d40171a5d0c2be815E49a33951000595578B0"
 }
