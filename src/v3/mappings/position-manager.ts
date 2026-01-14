@@ -7,7 +7,7 @@ import {
   NonfungiblePositionManager,
   Transfer,
 } from '../../../generated/NonfungiblePositionManager/NonfungiblePositionManager'
-import { Position, PositionSnapshot, Token, Tick } from '../../../generated/schema'
+import { Position, PositionSnapshot, Tick, Token } from '../../../generated/schema'
 import { ADDRESS_ZERO, factoryContract, ZERO_BD, ZERO_BI } from '../../common/constants'
 import { convertTokenToDecimal } from '../../common/utils'
 import { loadTransaction } from './utils'
